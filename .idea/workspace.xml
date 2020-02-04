@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d16a9743-4bc2-4ad0-ba12-119aac27bd4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson06/Ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson06/Ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson06/Ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson06/Ex04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson06/Ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/Ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/Ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/Ex03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +40,8 @@
       <recent name="C:\Users\msila_000\PycharmProjects\python_basics\lesson04" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex05">
-    <configuration name="Ex01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Ex02 (1)">
+    <configuration name="Ex01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +49,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson06/Ex01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson07/Ex01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Ex02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson06/Ex02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson07/Ex02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Ex03 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,32 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson06/Ex03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex04" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_basics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson06/Ex04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson07/Ex03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,20 +125,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson07/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Ex01" />
-      <item itemvalue="Python.Ex02" />
-      <item itemvalue="Python.Ex03" />
-      <item itemvalue="Python.Ex04" />
       <item itemvalue="Python.Ex05" />
+      <item itemvalue="Python.Ex01 (1)" />
+      <item itemvalue="Python.Ex02 (1)" />
+      <item itemvalue="Python.Ex03 (1)" />
+      <item itemvalue="Python.temp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ex02 (1)" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.Ex03 (1)" />
+        <item itemvalue="Python.Ex01 (1)" />
         <item itemvalue="Python.Ex05" />
-        <item itemvalue="Python.Ex04" />
-        <item itemvalue="Python.Ex03" />
-        <item itemvalue="Python.Ex02" />
-        <item itemvalue="Python.Ex01" />
       </list>
     </recent_temporary>
   </component>
@@ -203,22 +201,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579718765793" />
-    <state width="1515" height="235" key="GridCell.Tab.0.bottom" timestamp="1580158995289">
+    <state width="1515" height="202" key="GridCell.Tab.0.bottom" timestamp="1580844734480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580158995289" />
-    <state width="1515" height="235" key="GridCell.Tab.0.center" timestamp="1580158995289">
+    <state width="1515" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580844734480" />
+    <state width="1515" height="202" key="GridCell.Tab.0.center" timestamp="1580844734480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580158995289" />
-    <state width="1515" height="235" key="GridCell.Tab.0.left" timestamp="1580158995289">
+    <state width="1515" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580844734480" />
+    <state width="1515" height="202" key="GridCell.Tab.0.left" timestamp="1580844734480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580158995289" />
-    <state width="1515" height="235" key="GridCell.Tab.0.right" timestamp="1580158995289">
+    <state width="1515" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580844734480" />
+    <state width="1515" height="202" key="GridCell.Tab.0.right" timestamp="1580844734480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580158995289" />
+    <state width="1515" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580844734480" />
     <state x="279" y="57" key="SettingsEditor" timestamp="1578473026189">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -227,9 +225,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="418" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1579724861312" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578492833433">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580760732634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578492833433" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580760732634" />
   </component>
 </project>
