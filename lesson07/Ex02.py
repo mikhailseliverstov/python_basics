@@ -55,7 +55,7 @@ coat = Coat(52)
 suit = Suit(1.80)
 print(coat.square)
 print(suit.square)
-m = Material
+m = Material()
 m.coat_s(52)
 m.suit_s(1.8)
 print(m.common_square())
